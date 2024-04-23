@@ -1,11 +1,11 @@
 ## Comparative Analysis of Machine Learning Algorithms for Spam Detection using Ensemble Techniques
 
 ### Project description
-This project investigates the effectiveness of machine learning algorithms and ensemble methods for spam email detection. It aims to implement and compare the performance of Multinomial Naive Bayes and XGBoost algorithms on the Spambase dataset (UCI Machine Learning Repository), develop and evaluate a stacking ensemble approach that combines the strengths of both models for improved spam classification, and analyze the impact of hyperparameter tuning on the performance of these models.
+This project investigates the effectiveness of machine learning algorithms and ensemble methods for spam text message detection. It aims to implement and compare the performance of Multinomial Naive Bayes and XGBoost algorithms on the SMS Spam Collection Dataset, develop and evaluate a stacking ensemble approach that combines the strengths of both models for improved spam classification, and analyze the impact of hyperparameter tuning on the performance of these models.
 
 ### Team member’s role and contribution:
 In this project, I will 
-* download, explore, and pre-process the Spambase dataset
+* download, explore, and pre-process the SMS Spam dataset
 * implement and evaluate the baseline Naive Bayes and XGBoost models
 * develop and evaluate the stacking ensemble approach
 * conduct hyperparameter tuning for all models
@@ -13,5 +13,5 @@ In this project, I will
 * prepare project deliverables (code, documentation, presentation)
 
 ### Dataset
-[Spambase dataset (UCI Machine Learning Repository)](https://archive.ics.uci.edu/dataset/94/spambase)
-* This dataset contains 4601 email instances and each contains 57 features for spam/non-spam classification
+[SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+* The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
