@@ -47,4 +47,3 @@ In this project, I will
 ![perfomance](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/6e618dae-3248-4b35-b66e-5bc9edcd167e)
 
 
-
