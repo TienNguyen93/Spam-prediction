@@ -45,5 +45,7 @@ In this project, I will
 ![accuracy_performance](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/9ed32bd9-5b00-4bb3-ab50-ebdd7e06f12e)
 <br></br> 
 ![perfomance](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/6e618dae-3248-4b35-b66e-5bc9edcd167e)
+<br></br> 
+![auc](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/6a5e121f-8f4d-4907-aa63-fcd3653d51e7)
 
 
