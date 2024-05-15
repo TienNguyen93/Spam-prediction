@@ -42,10 +42,17 @@ In this project, I will
 ![out_of_fold](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/2dcd441f-965b-4bce-93fd-d799e55100d4)
 
 ### Performance
+#### Baselines
+![image](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/1e4aa11d-1e1b-460f-90cd-86935390f6f6)
+
+#### Tuned models 
+##### Accuracy performance
 ![accuracy_performance](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/9ed32bd9-5b00-4bb3-ab50-ebdd7e06f12e)
 <br></br> 
+##### Precision, Recall, F1 performance
 ![perfomance](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/6e618dae-3248-4b35-b66e-5bc9edcd167e)
 <br></br> 
+##### AUC performance
 ![auc](https://github.com/TienNguyen93/Spam-prediction/assets/43976085/6a5e121f-8f4d-4907-aa63-fcd3653d51e7)
 
 
